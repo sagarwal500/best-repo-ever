@@ -1,2 +1,2 @@
 # best-repo-ever
-Changes to check the impact of changes to local repository
+Changes to test the impact of changes in the local repository.
